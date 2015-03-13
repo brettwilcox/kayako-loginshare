@@ -18,25 +18,25 @@ It is *HIGHLY* recommended that you use HTTPS for security purposes.
 If you would like to test the script to ensure that it is working properly, then load up the test.php script located in the root folder of the auth script.
 
 ## Supported Systems
-*Working Systems
-*Concrete5
-*Contao
-*CS-Cart
-*Drupal 6
-*Drupal 7
-*HostBill?
-*Interspire Shopping Cart
-*Invision Power Board
-*Joomla
-*LemonstandApp?
-*Magento
-*OpenCart?
-*OSCommerce
-*phpBB
-*PrestaShop?
-*Simple Machines / SMF
-*Vanilla Forums
-*vBulletin
-*WHMCS
-*Wordpress
-*ZenCart?
+* Working Systems
+* Concrete5
+* Contao
+* CS-Cart
+* Drupal 6
+* Drupal 7
+* HostBill
+* Interspire Shopping Cart
+* Invision Power Board
+* Joomla
+* LemonstandApp
+* Magento
+* OpenCart
+* OSCommerce
+* phpBB
+* PrestaShop
+* Simple Machines / SMF
+* Vanilla Forums
+* vBulletin
+* WHMCS
+* Wordpress
+* ZenCart
